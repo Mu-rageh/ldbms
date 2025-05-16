@@ -49,10 +49,7 @@ This project implements a database management system for a library, using MySQL.
     * `loan`
     * `reservation`
 
-## ERD (Entity-Relationship Diagram)
-
-*[ERD Placeholder:  Replace this with an actual image or link to your ERD.  You can use a tool like draw.io, Lucidchart, or MySQL Workbench to create the ERD and then export it as an image.]*
-![ERD](https://i.imgur.com/your_erd_image.png)
+ 
 
 ## Repository Contents
 
@@ -60,4 +57,3 @@ The repository includes the following:
 
 * `library_management_system.sql`:  The SQL script to create the database schema (tables, relationships, and constraints).
 * `README.md`: This file, providing project information and setup instructions.
-* `[ERD Image or Link]`: (Placeholder) An image or link to the Entity-Relationship Diagram of the database.
